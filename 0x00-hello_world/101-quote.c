@@ -1,10 +1,10 @@
-#include <unistd.h>
+#include <stdio.h>
 #include <unistd.h>
 
 /**
  * main - print a text
  *
- * Return: Always 1 (Success)
+ * Return: Always 0 (Success)
  */
 int main(void)
 { 
