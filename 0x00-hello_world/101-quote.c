@@ -2,7 +2,7 @@
 #include <unistd.h>
 
 /**
- * main - print a text
+ * main - Entry point
  *
  * Return: Always 0 (Success)
  */
