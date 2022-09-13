@@ -1,4 +1,4 @@
-#included <stdio.h>
+#included <main.h>
 /**
  * main - Entry point
  *
